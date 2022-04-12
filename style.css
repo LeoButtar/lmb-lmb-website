@@ -1,3 +1,4 @@
+
 .fixed-bg {
   background-image: url("rx7.jpeg");
   min-height: 1080px;
@@ -43,28 +44,6 @@
   background-size: 1920px;
 }
 
-.Button1 {
-	box-shadow: 0px 0px 0px 0px #ffffff;
-	background:linear-gradient(to bottom, #5279f0 5%, #000000 100%);
-	background-color:#5279f0;
-	border-radius:8px;
-	border:1px solid #000000;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:20px 48px;
-	text-decoration:none;
-	text-shadow:1px 1px 0px #000000;
+body{
+  background-color: black;
 }
-.Button1 :hover {
-	background:linear-gradient(to bottom, #000000 5%, #5279f0 100%);
-	background-color:#000000;
-}
-
-.Button1 :active {
-	position:relative;
-	top:1px;
-}
-

@@ -2,3 +2,45 @@ body {
   background-image: url('landing.jpeg');
 }
 
+.Button1 {
+	box-shadow: 0px 0px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffc400 5%, #575757 100%);
+	background-color:#ffc400;
+	border-radius:8px;
+	border:0px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#575757;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 48px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #000000;
+}
+.Button1 :hover {
+	background:linear-gradient(to bottom, #000000 5%, #5279f0 100%);
+	background-color:#000000;
+}
+
+.Button1 :active {
+	position:relative;
+	top:1px;
+}
+
+body {
+  background-color:#000000;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #575757;
+  color: #ffc400;
+  font-size: 40px;
+  opacity: 0.75;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
