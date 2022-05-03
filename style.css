@@ -165,3 +165,24 @@ body{
   opacity: 0.75;
 }  
 
+.myButton {
+	background-color:#ffc400;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#ffc400;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
