@@ -1,5 +1,6 @@
 body {
   background-image: url('landing.jpeg');
+    background-repeat: no-repeat;
 }
 
 .Button1 {
@@ -44,7 +45,3 @@ a:hover {
   opacity: 0.5;
 }
 
-.responsive {
-  width: 100%;
-  height: auto;
-}
