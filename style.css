@@ -6,7 +6,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: 1920px;
-  
 }
 
 .fixed-bg2 {
@@ -87,7 +86,7 @@ body{
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #ffc400;
 }
 
 /* Dropdown content (hidden by default) */
@@ -178,6 +177,7 @@ body{
 }
 .myButton:hover {
 	background-color:#ffc400;
+  opacity: 0.5;
 }
 .myButton:active {
 	position:relative;
