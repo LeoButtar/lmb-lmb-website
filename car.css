@@ -93,6 +93,11 @@ h1 {
   font-family: 'Dosis', sans-serif;
 }
 
+h2 {
+  color: white;
+  font-family: 'Dosis', sans-serif;
+}
+
 img {
   width: 800px;
   height: 500px;
