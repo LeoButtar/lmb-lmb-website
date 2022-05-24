@@ -45,12 +45,11 @@ a:hover {
   opacity: 0.5;
 }
 
-img {
-  height: 350px;
-  width: 400px;
+.row {
+  
 }
 
 .column {
-
- 
+  flex: 33%;
+  padding: 20px;
 }
