@@ -45,11 +45,3 @@ a:hover {
   opacity: 0.5;
 }
 
-.row {
-  
-}
-
-.column {
-  flex: 33%;
-  padding: 20px;
-}
